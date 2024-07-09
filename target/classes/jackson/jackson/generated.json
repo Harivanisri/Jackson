@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "position": "Software Engineer",
+    "salary": 60000,
+    "department": "Development",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "position": "Product Manager",
+    "salary": 75000,
+    "department": "Product",
+    "email": "jane.smith@example.com"
+  }
+]
